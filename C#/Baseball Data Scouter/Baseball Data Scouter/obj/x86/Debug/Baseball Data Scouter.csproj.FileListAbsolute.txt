@@ -1,0 +1,10 @@
+D:\Visual C#\Code\Baseball Data Scouter\Baseball Data Scouter\bin\Debug\Baseball Data Scouter.exe
+D:\Visual C#\Code\Baseball Data Scouter\Baseball Data Scouter\bin\Debug\Baseball Data Scouter.pdb
+D:\Visual C#\Code\Baseball Data Scouter\Baseball Data Scouter\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Visual C#\Code\Baseball Data Scouter\Baseball Data Scouter\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Visual C#\Code\Baseball Data Scouter\Baseball Data Scouter\obj\x86\Debug\Baseball Data Scouter.csproj.GenerateResource.Cache
+D:\Visual C#\Code\Baseball Data Scouter\Baseball Data Scouter\obj\x86\Debug\Baseball Data Scouter.exe
+D:\Visual C#\Code\Baseball Data Scouter\Baseball Data Scouter\obj\x86\Debug\Baseball Data Scouter.pdb
+D:\Visual C#\Code\Baseball Data Scouter\Baseball Data Scouter\obj\x86\Debug\Baseball Data Scouter.csproj.ResolveComReference.cache
+D:\Visual C#\Code\Baseball Data Scouter\Baseball Data Scouter\bin\Debug\OnBarcode.Barcode.WinForms.dll
+D:\Visual C#\Code\Baseball Data Scouter\Baseball Data Scouter\obj\x86\Debug\Baseball Data Scouter.csprojResolveAssemblyReference.cache
